@@ -1,2 +1,2 @@
 # Dota-Teams
-[Link to Google](https://www.google.com)
+[Link Project](https://dota2teams-d034b.web.app/)
